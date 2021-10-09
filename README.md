@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Young-Picasso
+- 👋 Hi, I’m @Young-Picasso. I like AI and trading.
 
 <!---
 Young-Picasso/Young-Picasso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
